@@ -1,4 +1,4 @@
-<p align="center"><img src="https://certekim.cn/wp-content/uploads/2019/02/logo.png"></p>
+<p align="left"><img src="https://certekim.cn/wp-content/uploads/2019/02/logo.png"></p>
 
 # [EndlessDream](https://certekim.cn)
 The Project Endless Dream for Minecraft mod
